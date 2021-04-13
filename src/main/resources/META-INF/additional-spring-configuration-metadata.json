@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation."
+  }
+] }
